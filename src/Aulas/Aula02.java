@@ -1,4 +1,6 @@
-package Aula2;
+package Aulas;
+
+import Vetor.Vetor;
 
 public class Aula02 {
     public static void main(String[] args) {
