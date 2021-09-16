@@ -5,10 +5,14 @@ public class Main {
 
 
 
+
         System.out.println("teste");
 
-        Carro carro1 = new Carro("palio", "120cv", "2009", "fiat");
+        Carro carro1 = new Carro("palio", "120cv", "2009", "fiat", Origem.Alemanha);
+
+
 
         System.out.println(carro1.getMarca());
+        System.out.println(carro1.getOrigem());
     }
 }
