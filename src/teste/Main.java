@@ -9,6 +9,6 @@ public class Main {
 
         Carro carro1 = new Carro("palio", "120cv", "2009", "fiat");
 
-        System.out.println(carro1);
+        System.out.println(carro1.getMarca());
     }
 }
